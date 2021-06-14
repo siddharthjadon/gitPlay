@@ -19,6 +19,7 @@
   "eslintConfig": {
     "extends": "react-app",
       "test": "asdada",
+      "helo": "sadlsadnajk"
   },
   "browserslist": {
     "production": [
